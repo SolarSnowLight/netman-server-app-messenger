@@ -1,0 +1,13 @@
+﻿{
+  "port": 5001,
+  "database": {
+    "user": "postgres",
+    "host": "localhost",
+    "database": "dbmessenger",
+    "password": "iJ#Q@LKpkawf-)$1l25,m12l5kkm<TNN@IY)*DGjnlQ#BN",
+    "port": "5432"
+  },
+  "centralServerIP": "localhost:5000",
+  "serverMessengerFullAddress": "http://localhost:5001",
+  "managementWebSite": "http://localhost:3000"
+}

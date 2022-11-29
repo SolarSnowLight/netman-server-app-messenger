@@ -1,0 +1,575 @@
+{"port":5000,"message":"������ �������","level":"info","timestamp":"2021-08-11 18:33:20"}
+{"port":5000,"message":"Запуск сервера","level":"info","timestamp":"2021-08-11 18:37:06"}
+{"port":5000,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:07:23"}
+{"method":"POST","address":"/messenger/user/sending","message":"notNull Violation: users_messages.id cannot be null","level":"error","timestamp":"2021-08-12 00:10:19"}
+{"method":"POST","address":"/messenger/user/sending","message":"notNull Violation: users_messages.id cannot be null","level":"error","timestamp":"2021-08-12 00:10:50"}
+{"method":"POST","address":"/messenger/user/sending","message":"notNull Violation: users_messages.id cannot be null","level":"error","timestamp":"2021-08-12 00:10:51"}
+{"port":5000,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:11:03"}
+{"method":"POST","address":"/messenger/user/sending","message":"notNull Violation: users_messages.id cannot be null","level":"error","timestamp":"2021-08-12 00:11:05"}
+{"port":5000,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:11:16"}
+{"port":5000,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:12:42"}
+{"port":5000,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:12:47"}
+{"port":5000,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:12:52"}
+{"port":5000,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:12:58"}
+{"port":5000,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:14:15"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"e@mail.ru","email_receiver":"a@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 00:14:29"}
+{"port":5000,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:15:05"}
+{"port":5000,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:15:08"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"e@mail.ru","email_receiver":"a@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 00:15:09"}
+{"port":5000,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:16:11"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:17:53"}
+{"method":"POST","address":"/messenger/user/sending","message":"e is not defined","level":"error","timestamp":"2021-08-12 00:20:04"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:21:23"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:21:25"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:21:57"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:22:05"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:22:22"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:22:32"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:22:32"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:22:37"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:22:47"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:23:32"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:23:33"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:23:39"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:23:58"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:24:00"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:24:01"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:25:43"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:25:44"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:26:24"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:26:28"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:26:29"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:26:52"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:26:57"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:26:58"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:27:15"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:27:19"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:27:19"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:28:09"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:28:15"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:28:15"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:28:16"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:31:00"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:31:00"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:31:30"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:31:30"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:31:30"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:31:39"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:31:56"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:32:23"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:32:24"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:32:24"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:32:31"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:33:04"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:33:47"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:33:47"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:34:09"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:34:09"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:36:11"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 00:36:17"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e@mail.ru","email_receiver":"ai.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:36:37"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 00:36:58"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"e1@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 00:37:01"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello, world22!","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 00:37:06"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:37:25"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:39:43"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:39:55"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:40:02"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:41:19"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:42:05"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:43:21"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:43:39"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:43:59"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:44:33"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:44:50"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:45:47"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:46:00"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:48:37"}
+{"method":"POST","address":"/messenger/user/chats","message":"Некорректные данные при получении сообщений","date":{"email":"\"asi.ano@mail.ru\""},"level":"error","timestamp":"2021-08-12 00:49:12"}
+{"method":"POST","address":"/messenger/user/sending","message":"столбец users_messages.email не существует","level":"error","timestamp":"2021-08-12 00:50:12"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:50:38"}
+{"method":"POST","address":"/messenger/user/sending","message":"email_sender is not defined","level":"error","timestamp":"2021-08-12 00:50:40"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:51:37"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 00:51:37"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:52:11"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 00:52:13"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 00:52:50"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 00:53:02"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:53:27"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 00:53:30"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:53:45"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 00:53:46"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 00:56:50"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:02:47"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:02:57"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:03:08"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:03:16"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:04:19"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello1","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 01:05:56"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello2","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 01:06:00"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello3","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 01:06:03"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello4","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 01:06:06"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"e@mail.ru","email_receiver":"asi.ano@mail.ru","message":"Hello5","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 01:06:09"}
+{"method":"POST","address":"/messenger/user/sending","message":"столбец users_groups.email не существует","level":"error","timestamp":"2021-08-12 01:06:30"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:07:12"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:07:13"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:07:58"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:08:14"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:08:26"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:09:22"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:10:29"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:10:46"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:11:46"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:24:12"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:24:38"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:24:41"}
+{"method":"POST","address":"/messenger/user/sending","message":"столбец users_groups.email не существует","level":"error","timestamp":"2021-08-12 01:24:44"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:25:41"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:25:41"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:27:08"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:27:12"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:27:29"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:27:29"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"asi.ano@mail.ru","email_receiver":"e@mail.ru","message":"World","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 01:27:57"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"asi.ano@mail.ru","email_receiver":"e@mail.ru","message":"World1","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 01:27:59"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"asi.ano@mail.ru","email_receiver":"e@mail.ru","message":"World12","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 01:28:01"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"asi.ano@mail.ru","email_receiver":"e@mail.ru","message":"World132","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 01:28:03"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:28:04"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:28:26"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:28:29"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:29:01"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:29:03"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:29:46"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:29:49"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:30:53"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"asi.ano@mail.ru","email_receiver":"e@mail.ru","message":"World132","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 01:30:55"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:30:57"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:31:18"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:31:28"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:33:02"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"a@mail.ru","email_receiver":"e@mail.ru","message":"World132","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 01:34:26"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"a@mail.ru","email_receiver":"e@mail.ru","message":"Worl124d132","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 01:34:29"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"a@mail.ru","email_receiver":"e@mail.ru","message":"W12412orl124d132","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 01:34:31"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"a@mail.ru","email_receiver":"e@mail.ru","message":"W12412or124l124d132","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 01:34:33"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:34:35"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:34:56"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:35:06"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-12 01:35:12"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 01:35:40"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:36:32"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 01:36:34"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:36:58"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 01:37:01"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:41:13"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:41:22"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 01:41:35"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 01:42:44"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 01:42:58"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 01:43:00"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:44:23"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:44:37"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 01:44:38"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:46:18"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:48:12"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 01:48:16"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:51:22"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:53:45"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:54:04"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:54:28"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:55:49"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 01:55:56"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 01:57:08"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 01:57:40"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:58:58"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 01:59:01"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:59:47"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 01:59:56"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:00:19"}
+{"method":"POST","address":"/messenger/user/sending","message":"столбец users_groups.email не существует","level":"error","timestamp":"2021-08-12 02:00:20"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:02:49"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 02:02:53"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:07:14"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:07:16"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:08:53"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:12:24"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:13:19"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 02:13:21"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 02:13:46"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 02:14:04"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 02:14:13"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 02:16:22"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 02:16:24"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 02:16:44"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:17:16"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 02:17:16"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:17:30"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 02:17:31"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 02:17:32"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 02:17:43"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:18:18"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:18:38"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 02:18:48"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:20:08"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:20:10"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:20:12"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:20:23"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:20:27"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:20:38"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:20:53"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:21:29"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:22:31"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 02:23:18"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 12:17:49"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"asi.ano@mail.ru","email_receiver":"e@mail.ru","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 12:19:44"}
+{"method":"POST","address":"/messenger/user/sending","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"asi.ano@mail.ru","email_receiver":"e@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"error","timestamp":"2021-08-12 12:20:00"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"asi.ano@mail.ru","email_receiver":"e@mail.ru","message":"Hello, world!","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 12:23:22"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"a@mail.ru","email_receiver":"e@mail.ru","message":"Hello, world!22","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 12:24:04"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"a@mail.ru","email_receiver":"e@mail.ru","message":"What do you doing?","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 12:24:18"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"asi.ano@mail.ru","email_receiver":"e@mail.ru","message":"Обалдеть, купил новый мерч!","link_media":null,"type":null},"level":"info","timestamp":"2021-08-12 12:24:34"}
+{"method":"POST","address":"/messenger/user/sending","message":"столбец users_groups.email_creator не существует","level":"error","timestamp":"2021-08-12 12:24:58"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 12:25:33"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 12:25:36"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 12:29:48"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 12:30:12"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 12:31:28"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 12:31:43"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 12:32:59"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 12:33:22"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 12:33:22"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 13:05:19"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-12 13:06:07"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 13:14:16"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 13:14:28"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 13:15:15"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 13:17:06"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 13:18:16"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 13:18:37"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 13:19:20"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 13:20:00"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 13:20:54"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 13:21:08"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 13:31:28"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-12 13:32:42"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:08:09"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:10:05"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:12:29"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:14:13"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 13:17:10"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:17:47"}
+{"method":"POST","address":"/messenger/group/sending","message":"повторяющееся значение ключа нарушает ограничение уникальности \"groups_messages_pkey\"","level":"error","timestamp":"2021-08-13 13:17:49"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:19:58"}
+{"method":"POST","address":"/messenger/group/sending","message":"повторяющееся значение ключа нарушает ограничение уникальности \"groups_messages_pkey\"","level":"error","timestamp":"2021-08-13 13:20:00"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:20:16"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:20:42"}
+{"method":"POST","address":"/messenger/group/sending","message":"повторяющееся значение ключа нарушает ограничение уникальности \"groups_messages_pkey\"","level":"error","timestamp":"2021-08-13 13:20:42"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:21:09"}
+{"method":"POST","address":"/messenger/group/sending","message":"повторяющееся значение ключа нарушает ограничение уникальности \"groups_messages_pkey\"","level":"error","timestamp":"2021-08-13 13:22:04"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":1,"email_sender":"e@mail.ru","message":"New groups' message","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:22:42"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 13:23:27"}
+{"method":"POST","address":"/messenger/group/sending","message":"Данной группы не существует","date":{"groups_id":4,"email_sender":"e@mail.ru","message":"New groups' message","link_media":null,"type":null},"level":"error","timestamp":"2021-08-13 13:23:41"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":3,"email_sender":"e@mail.ru","message":"AAaaaaAADD","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:23:50"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 13:23:54"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":3,"email_sender":"e@mail.ru","message":"AAaaaaAADD","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:23:59"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 13:24:01"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":3,"email_sender":"e@mail.ru","message":"AAaaaaAADD","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:24:04"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 13:24:05"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":3,"email_sender":"e@mail.ru","message":"AAaaaaAAD222D","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:24:17"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 13:24:18"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:26:12"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:26:54"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 13:28:16"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:29:04"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 13:29:10"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:29:30"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 13:29:32"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:29:49"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:29:56"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 13:29:57"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 13:30:27"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:31:15"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 13:31:17"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":2,"email_sender":"e@mail.ru","message":"New","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:32:04"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 13:32:06"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 13:33:05"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:41:32"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:42:17"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:43:04"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:45:35"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:46:29"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:47:07"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:53:54"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":2,"email_sender":"e@mail.ru","message":"New","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:54:05"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:54:41"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":2,"email_sender":"e@mail.ru","message":"New","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:54:44"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:55:13"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":2,"email_sender":"e@mail.ru","message":"New","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:55:15"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":2,"email_sender":"e@mail.ru","message":"New","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:55:20"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":2,"email_sender":"e@mail.ru","message":"New","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:55:33"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:55:45"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":2,"email_sender":"e@mail.ru","message":"New","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:55:45"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:56:01"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:56:05"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":2,"email_sender":"e@mail.ru","message":"New","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:56:05"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":2,"email_sender":"e@mail.ru","message":"New new","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:56:41"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":2,"email_sender":"e@mail.ru","message":"New new new","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:56:44"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":1,"email_sender":"e@mail.ru","message":"New new new","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:57:23"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:58:08"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":1,"email_sender":"e@mail.ru","message":"New new new","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:58:27"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 13:59:29"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":1,"email_sender":"e@mail.ru","message":"New new new","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 13:59:32"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:00:05"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:00:09"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":1,"email_sender":"e@mail.ru","message":"New new new","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 14:00:40"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":2,"email_sender":"e@mail.ru","message":"New new new","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 14:01:04"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":2,"email_sender":"e@mail.ru","message":"New new new","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 14:01:42"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:02:11"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:06:30"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:06:31"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:07:47"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:07:54"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:08:43"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:09:02"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:09:12"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:10:01"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:10:41"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:10:45"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:10:47"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:11:25"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:11:27"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:11:48"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:11:56"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:11:57"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:12:11"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:12:11"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:12:12"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:12:30"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:12:31"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:12:33"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:12:33"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:12:34"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:12:42"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:12:43"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:13:09"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:14:27"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:14:33"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:14:34"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:14:46"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:14:56"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:14:58"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:15:08"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:15:23"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:15:26"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:16:42"}
+{"method":"POST","address":"/messenger/user/sending","message":"Cannot read property 'dataValues' of undefined","level":"error","timestamp":"2021-08-13 14:16:45"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:17:00"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:17:02"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:18:07"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:18:09"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:18:24"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:18:36"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-08-13 14:18:48"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:18:57"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":3,"email_sender":"e@mail.ru","message":"New new new","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 14:19:30"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:19:32"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:19:49"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:20:05"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:20:13"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:20:28"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":3,"email_sender":"e@mail.ru","message":"New new new","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 14:20:35"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:20:36"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":1,"email_sender":"e@mail.ru","message":"New new new","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 14:20:43"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 14:20:44"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-13 14:20:52"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-13 14:20:59"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-13 14:21:27"}
+{"method":"POST","address":"/messenger/group/sending","message":"Отправка сообщения пользователем","date":{"groups_id":2,"email_sender":"e@mail.ru","message":"New new new","link_media":null,"type":null},"level":"info","timestamp":"2021-08-13 14:21:37"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-13 14:21:38"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-13 14:22:04"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-08-13 14:22:17"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:29:56"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 14:30:51"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:02:13"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:03:31"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:03:49"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:03:53"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:04:00"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:04:05"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:05:18"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:05:31"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:05:53"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:06:02"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:06:46"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:06:56"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:08:01"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:08:10"}
+{"method":"POST","address":"/messenger/group/chat","message":"Получение данных о групповом чате, в которых участвует пользователь","date":{"email_receiver":"e@mail.ru","groups_id":"1"},"level":"info","timestamp":"2021-08-13 15:08:41"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:09:24"}
+{"method":"POST","address":"/messenger/group/chat","message":"Получение данных о групповом чате, в которых участвует пользователь","date":{"email_receiver":"e@mail.ru","groups_id":"1"},"level":"info","timestamp":"2021-08-13 15:09:25"}
+{"method":"POST","address":"/messenger/group/chat","message":"Получение данных о групповом чате, в которых участвует пользователь","date":{"email_receiver":"e@mail.ru","groups_id":"1"},"level":"info","timestamp":"2021-08-13 15:09:47"}
+{"method":"POST","address":"/messenger/group/chat","message":"Получение данных о групповом чате, в которых участвует пользователь","date":{"email_receiver":"e@mail.ru","groups_id":"2"},"level":"info","timestamp":"2021-08-13 15:09:55"}
+{"method":"POST","address":"/messenger/group/chat","message":"Получение данных о групповом чате, в которых участвует пользователь","date":{"email_receiver":"e@mail.ru","groups_id":"3"},"level":"info","timestamp":"2021-08-13 15:10:05"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:10:23"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:10:27"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:10:47"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:10:53"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:11:46"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:12:26"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:12:43"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:13:49"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:14:01"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:14:21"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:14:55"}
+{"method":"POST","address":"/messenger/user/chat","message":"Некорректные данные при отправке сообщения","date":{"email_receiver":["e@mail.ru","asi.ano@mail.ru"]},"level":"error","timestamp":"2021-08-13 15:15:02"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:15:54"}
+{"method":"POST","address":"/messenger/user/chat","message":"Некорректные данные при отправке сообщения","date":{"email_receiver":["e@mail.ru","asi.ano@mail.ru"]},"level":"error","timestamp":"2021-08-13 15:15:55"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:16:05"}
+{"method":"POST","address":"/messenger/user/chat","message":"Получение данных о групповом чате, в которых участвует пользователь","date":{"email_sender":"asi.ano@mail.ru","email_receiver":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 15:16:20"}
+{"method":"POST","address":"/messenger/user/chat","message":"Получение данных о групповом чате, в которых участвует пользователь","date":{"email_sender":"a@mail.ru","email_receiver":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 15:16:44"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:17:11"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 15:17:18"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 16:23:32"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 16:24:58"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"asi.ano@mail.ru","email_receiver":"e@mail.ru","message":"Hello, email"},"level":"info","timestamp":"2021-08-13 16:26:10"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 16:26:13"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"asi.ano@mail.ru","email_receiver":"e@mail.ru","message":"Hello, email"},"level":"info","timestamp":"2021-08-13 16:26:19"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 16:26:22"}
+{"method":"POST","address":"/messenger/group/chat","message":"Некорректные данные при отправке сообщения","date":{"groups_id":"1"},"level":"error","timestamp":"2021-08-13 16:27:01"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 16:28:06"}
+{"method":"POST","address":"/messenger/group/chat","message":"Некорректные данные при отправке сообщения","date":{"groups_id":"1"},"level":"error","timestamp":"2021-08-13 16:28:06"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 16:28:27"}
+{"method":"POST","address":"/messenger/group/chat","message":"Некорректные данные при отправке сообщения","date":{"groups_id":"1"},"level":"error","timestamp":"2021-08-13 16:28:27"}
+{"method":"POST","address":"/messenger/group/chat","message":"Некорректные данные при отправке сообщения","date":{"groups_id":"1"},"level":"error","timestamp":"2021-08-13 16:28:32"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 16:28:40"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 16:28:44"}
+{"method":"POST","address":"/messenger/group/chat","message":"Некорректные данные при отправке сообщения","date":{"groups_id":"1"},"level":"error","timestamp":"2021-08-13 16:28:45"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 16:29:15"}
+{"method":"POST","address":"/messenger/group/chat","message":"Некорректные данные при отправке сообщения","date":{"groups_id":"1"},"level":"error","timestamp":"2021-08-13 16:29:15"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 16:29:24"}
+{"method":"POST","address":"/messenger/group/chat","message":"Некорректные данные при отправке сообщения","date":{"groups_id":"1"},"level":"error","timestamp":"2021-08-13 16:29:29"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 16:29:45"}
+{"method":"POST","address":"/messenger/group/chat","message":"Некорректные данные при отправке сообщения","date":{"groups_id":"1"},"level":"error","timestamp":"2021-08-13 16:29:46"}
+{"method":"POST","address":"/messenger/group/chat","message":"Некорректные данные при отправке сообщения","date":{"groups_id":"1"},"level":"error","timestamp":"2021-08-13 16:29:56"}
+{"method":"POST","address":"/messenger/group/chat","message":"Некорректные данные при отправке сообщения","date":{"groups_id":"1"},"level":"error","timestamp":"2021-08-13 16:30:00"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-13 16:30:10"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 16:39:20"}
+{"method":"POST","address":"/messenger/user/sending","message":"Отправка сообщения пользователем","date":{"email_sender":"asi.ano@mail.ru","email_receiver":"e@mail.ru","message":"Hello, 222email"},"level":"info","timestamp":"2021-08-13 16:46:25"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-13 16:46:32"}
+{"method":"POST","address":"/messenger/user/chat","message":"Некорректные данные при отправке сообщения","date":{"email_sender":"asi.ano@mail.ru"},"level":"error","timestamp":"2021-08-13 16:49:50"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-14 12:56:05"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-14 12:56:27"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-14 12:56:57"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-14 12:57:22"}
+{"method":"POST","address":"/messenger/user/chat","message":"Получение данных о групповом чате, в которых участвует пользователь","date":{"email_sender":"asi.ano@mail.ru","email_receiver":"e@mail.ru"},"level":"info","timestamp":"2021-08-14 12:57:54"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-14 12:58:59"}
+{"method":"POST","address":"/messenger/user/chat","message":"Получение данных о групповом чате, в которых участвует пользователь","date":{"email_sender":"asi.ano@mail.ru","email_receiver":"e@mail.ru"},"level":"info","timestamp":"2021-08-14 12:59:02"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-08-14 12:59:08"}
+{"method":"POST","address":"/messenger/group/chat","message":"Получение данных о групповом чате, в которых участвует пользователь","date":{"email_receiver":"e@mail.ru","groups_id":"1"},"level":"info","timestamp":"2021-08-14 12:59:39"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-14 13:00:06"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-24 16:37:12"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-24 16:37:19"}
+{"port":5001,"message":"Запуск сервера","level":"info","timestamp":"2021-08-24 17:07:53"}
+{"method":"POST","address":"/messenger/user/sending","message":"Cannot read property 'nickname' of undefined","level":"error","timestamp":"2021-09-23 22:00:47"}
+{"method":"POST","address":"/messenger/user/chats","message":"Cannot read property 'nickname' of undefined","level":"error","timestamp":"2021-09-23 22:01:44"}
+{"method":"POST","address":"/messenger/user/chats","message":"Cannot read property 'nickname' of undefined","level":"error","timestamp":"2021-09-23 22:05:05"}
+{"method":"POST","address":"/messenger/user/chats","message":"Cannot read property 'nickname' of undefined","level":"error","timestamp":"2021-09-25 07:43:24"}
+{"method":"POST","address":"/messenger/user/chats","message":"Cannot read property 'nickname' of undefined","level":"error","timestamp":"2021-09-25 07:44:32"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 07:44:56"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 07:48:19"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:27:06"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:27:55"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:30:03"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:31:12"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:32:30"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:33:25"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:34:27"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:34:47"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:37:03"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:38:43"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:39:28"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 08:39:38"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 08:40:21"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:40:28"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:41:18"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:41:22"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:41:46"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:42:19"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:42:53"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:43:10"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:43:57"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 08:44:14"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 08:44:25"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 08:45:25"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:45:35"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:55:11"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 08:55:24"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:55:28"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 08:57:28"}
+{"method":"POST","address":"/messenger/user/chats","message":"creator_info is not defined","level":"error","timestamp":"2021-09-25 15:57:04"}
+{"method":"POST","address":"/messenger/user/chats","message":"creator_info is not defined","level":"error","timestamp":"2021-09-25 15:58:31"}
+{"method":"POST","address":"/messenger/user/chats","message":"creator_info is not defined","level":"error","timestamp":"2021-09-25 15:59:09"}
+{"method":"POST","address":"/messenger/user/chats","message":"creator_info is not defined","level":"error","timestamp":"2021-09-25 15:59:21"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 16:00:39"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 16:00:48"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 16:16:53"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 16:17:02"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 16:17:09"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 16:24:33"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 16:35:27"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 16:35:47"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 16:35:51"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 16:37:11"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 16:37:22"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 16:37:27"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 16:39:13"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 16:42:24"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 16:42:38"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 16:47:27"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"asi.ano@mail.ru"},"level":"info","timestamp":"2021-09-25 16:48:40"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 16:48:54"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 16:49:01"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 17:09:26"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 17:11:28"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 17:11:56"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 17:12:09"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 17:12:59"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 17:22:48"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 17:22:59"}
+{"method":"POST","address":"/messenger/user/chats","message":"current_messages is not defined","level":"error","timestamp":"2021-09-25 17:24:45"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 17:25:10"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 17:25:35"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 17:26:15"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 17:27:07"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 17:33:26"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 17:33:33"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 17:33:36"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 17:33:47"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 21:39:08"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 21:43:47"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 21:44:27"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 21:46:18"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 21:49:50"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 21:50:27"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 21:50:38"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 21:52:59"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 21:53:02"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 21:53:22"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 21:54:42"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 21:55:23"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 21:55:31"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 21:55:49"}
+{"method":"POST","address":"/messenger/user/chats","message":"other_email is not defined","level":"error","timestamp":"2021-09-25 21:57:42"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 21:58:20"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 21:59:45"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 21:59:55"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 22:01:16"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 22:01:26"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 22:33:05"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-25 23:39:12"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-25 23:40:00"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-26 00:11:03"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-26 00:11:48"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-26 00:11:55"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-26 00:12:09"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-26 00:13:15"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"e@mail.ru"},"level":"info","timestamp":"2021-09-26 00:13:25"}
+{"method":"POST","address":"/messenger/user/sending","message":"Получение данных о чатах, в которых участвует пользователь","date":{"email":"a@mail.ru"},"level":"info","timestamp":"2021-09-26 00:13:34"}
